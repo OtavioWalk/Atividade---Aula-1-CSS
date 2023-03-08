@@ -1,0 +1,23 @@
+.pai {
+    background-color: #82fa12;
+    width: 550px;
+    height: px;
+    border: solid 5px #ff1578;
+    margin: 10px;
+}
+
+.caixa {
+    background-color: #123456;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+
+.titulo {
+    font-family: cursive;
+}
+
+.corPadrao{
+    color: #7700ff; font-size: 50px;
+}
